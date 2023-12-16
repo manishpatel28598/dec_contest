@@ -1,0 +1,16 @@
+body{
+    font-family: inter;
+}
+.sec-1{
+    border: 2px solid black;
+    padding: 2%;
+}
+h2{
+    text-decoration: underline;
+}
+.sec-2{
+    
+}
+a{
+   color: black;
+}
