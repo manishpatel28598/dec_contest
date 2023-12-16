@@ -1,9 +1,12 @@
 body{
     font-family: inter;
+    width:fit-content;
+    padding-left: 2%;;
 }
 .sec-1{
     border: 2px solid black;
     padding: 2%;
+    width: fit-content;
 }
 h2{
     text-decoration: underline;
